@@ -7,7 +7,7 @@
 ---
 
 <h3 align="left"
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About me:
+##<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About me:
 
   
 - 🔭 I’m currently working on [Predicting skin cancer using data analytics and machine learning to address the dermatologist shortage and improve health outcomes.](https://github.com/Hansani123/Data-6000-Skin-Cancer-)
